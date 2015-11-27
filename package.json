@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gskachkov/karma-phantomjs2-launcher.git"
+    "url": "git://github.com/evolution-gaming/karma-phantomjs2-launcher.git"
   },
   "keywords": [
     "karma-plugin",
@@ -19,7 +19,7 @@
   "author": "Alexandr Skackhov <gskachkov@gmail.com>",
   "dependencies": {
     "lodash": "~3.9.3",
-    "phantomjs2-ext": "^0.1.0"
+    "phantomjs2-ext": "git://github.com/evolution-gaming/phantomjs2.git#9814397cf5153de9cb688e2fe353e5559102e598"
   },
   "peerDependencies": {
     "karma": ">=0.9"
